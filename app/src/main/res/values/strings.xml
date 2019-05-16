@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="str_text1">当前选择%1$s已有之前服务商务经理%2$s,本期抄表%2$s度</string>
+    <string name="str_text2"><Data><![CDATA[本月用量<font color="#ff0000">%1$s</font>度，单价<font color="#ff0000">%2$s</font>元/度，本期金额<font color="#ff0000">%3$s</font>元]]></Data></string>
+    <string name="distribution_tip"><Data><![CDATA[当前选择“<font color="#4b88f9">%1$s</font>"已有之前服务商务经理<font color="#4b88f9">%2$s</font>，请确认后分配客户。]]></Data></string>
+
+</resources>
